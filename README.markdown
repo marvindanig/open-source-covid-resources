@@ -22,7 +22,7 @@ Covid-19 Makers is a community of Makers and engineers in the UK organized to de
 
 4. [Trevor Blackwell's exploratory ventilator using computer fans](https://twitter.com/tlbtlbtlb/status/1242615050990280704).
 
-The project isn't out in the open yet. 
+The project isn't out in the open yet. Hopefully, it will be soon and we'll update the link on the repo here then.
 
 
 ## Masks and Test Units
