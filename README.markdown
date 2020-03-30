@@ -25,7 +25,13 @@ Covid-19 Makers is a community of Makers and engineers in the UK organized to de
 The project isn't out in the open yet. Hopefully, it will be soon and we'll update the link on the repo here then.
 
 
-## Masks and Test Units
+## Masks, shields and test units
+
+1. [Protection Shield](https://github.com/FAB619/Protection-Mask--COVID-19)
+
+A prototype face shield developed by Tunisian team in three days, that went through dozens of prototypes and verification with doctors and associated experts.
+
+
 
 
 
@@ -42,7 +48,11 @@ The project isn't out in the open yet. Hopefully, it will be soon and we'll upda
 
 
 
-## Data visualizers and live trackers
+## Data visualizers, inventory maps and life trackers
+
+[Mask Map for South Korea and Taiwan](https://github.com/kiang/covid19-kr-masks)
+
+Government of South Korea publishes real-time inventory information of face masks. The Mask Map for South Korea shows that information on a map for reference only. Accurate inventory is not guaranteed but with map hints, you could prevent wasting too much time looking everywhere.
 
 
 
