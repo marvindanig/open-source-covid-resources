@@ -1,8 +1,13 @@
 # Open Source Covid Response Resources
 
-## FOSS projects to fight the Covid-19 pandemic with. 
+A list  of FOSS and self-help projects to fight the Covid-19 pandemic with. 
 
-Submit PR to add more projects to the list. 
+Submit PR(s) to add more projects on the list. 
+
+Rules: 
+
+- No pseudoscience, promotional material or general nuisance is allowed. Raise an issue to report if something is amiss. 
+- Please check your source and ratify credibility of the project before submitting a PR. 
 
 
 ## Sophisticated Medical Equipment & Ventilators
