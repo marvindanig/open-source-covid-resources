@@ -45,7 +45,6 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 
 
 
-
 ## General tips and official advice
 
 
@@ -57,11 +56,14 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 
 ## Hardware & other equipment
 
+1. [Biosafety cabinets](https://github.com/TheoryDivision/covid19_biosafety_cabinet)
+
+Sterilizing personal protective equipment using UV-C radiation in idle biosafety cabinets: A potential method to ease the burden during times of exceptional stress on the healthcare system.
 
 
 ## Data visualizers, inventory maps and life trackers
 
-[Mask Map for South Korea and Taiwan](https://github.com/kiang/covid19-kr-masks)
+1. [Mask Map for South Korea and Taiwan](https://github.com/kiang/covid19-kr-masks)
 
 Government of South Korea publishes real-time inventory information of face masks. The Mask Map for South Korea shows that information on a map for reference only. Accurate inventory is not guaranteed but with map hints, you could prevent wasting too much time looking everywhere.
 
