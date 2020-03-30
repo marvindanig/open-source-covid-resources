@@ -49,8 +49,6 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 1. [Coronavirus (COVID-19) Update: FDA takes action to help increase U.S. supply of ventilators and respirators for protection of health care workers, patients](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-action-help-increase-us-supply-ventilators-and-respirators)
 
 
-## Medicine and formulations
-
 
 
 ## Hardware & other equipment
@@ -85,9 +83,9 @@ Help anyone who is hungry and cannot buy food. Delhi Govt is providing free food
 Lunch: 12-3 PM
 Dinner: 6-9 PM
 
+## Medicine and formulations and other projects
 
-## Other projects
-
+Opportunity!
 
 
 
