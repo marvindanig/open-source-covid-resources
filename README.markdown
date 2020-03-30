@@ -1,4 +1,6 @@
-# FOSS projects to fight the Covid-19 pandemic with. 
+# Open Source Covid Response Resources
+
+## FOSS projects to fight the Covid-19 pandemic with. 
 
 Submit PR to add more projects to the list. 
 
@@ -55,4 +57,4 @@ The project isn't out in the open yet.
 
 To the extent possible under law, [Marvin Danig](http://bubblin.io/) and [Anuj Rajput](https://bubblin.io/anuj-anuj-rajput) have waived all copyright and related or neighboring rights to this work/repository.
 
-[Back to Top](#places-to-post-your-startup)
+[Back to Top](#open-source-covid-response-resources)
