@@ -2,7 +2,7 @@
 
 A list  of FOSS and self-help projects to fight the Covid-19 pandemic with. Please submit PR(s) to add more projects on the list. 
 
-Rules: 
+### Ground rules: 
 
 - No pseudoscience, promotional material or general nuisance is allowed. Raise an issue to report if something is amiss. 
 - Please check your source and ratify credibility of the project before submitting a PR. 
@@ -87,7 +87,7 @@ Dinner: 6-9 PM
 
 ## Medicine and formulations and other projects
 
-Opportunity!
+Opportunity?!
 
 
 
