@@ -46,7 +46,7 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 
 ## General tips and official advice
 
-
+1. [Coronavirus (COVID-19) Update: FDA takes action to help increase U.S. supply of ventilators and respirators for protection of health care workers, patients](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-action-help-increase-us-supply-ventilators-and-respirators)
 
 
 ## Medicine and formulations
@@ -79,6 +79,11 @@ The primary aim of this project by RepRap Ltd is to get a working design for an 
 
 Government of South Korea publishes real-time inventory information of face masks. The Mask Map for South Korea shows that information on a map for reference only. Accurate inventory is not guaranteed but with map hints, you could prevent wasting too much time looking everywhere.
 
+2. [New Delhi: Locations to relief centers with food and shelter](https://www.google.com/maps/d/viewer?mid=1X11pR1yEU4F2gxG3NlHM_c69LbW0uRWS)
+
+Help anyone who is hungry and cannot buy food. Delhi Govt is providing free food to all the needy people.
+Lunch: 12-3 PM
+Dinner: 6-9 PM
 
 
 ## Other projects
