@@ -8,7 +8,7 @@ A list  of FOSS and self-help projects to fight the Covid-19 pandemic with. Plea
 - Please check your source and ratify credibility of the project before submitting a PR. 
 
 
-## Sophisticated Medical Equipment & Ventilators
+## Medical Equipment & Ventilators
 
 1. [Open Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
 
