@@ -24,6 +24,11 @@ Covid-19 Makers is a community of Makers and engineers in the UK organized to de
 
 The project isn't out in the open yet. Hopefully, it will be soon and we'll update the link on the repo here then.
 
+5. [Low-Cost Open-Source Ventilator-ish Device or PAPR](https://github.com/jcl5m1/ventilator)
+
+Low-Cost Open Source Ventilator is buildable, pressure tested, and active. We recommend that project and its creator, Johnny Lee, be given all the money and volunteer assistance it needs.
+
+
 
 ## Masks and Test Units
 
