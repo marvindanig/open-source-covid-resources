@@ -33,7 +33,7 @@ Low-Cost Open Source Ventilator is buildable, pressure tested, and active. We re
 
 6. [Open Source Ventilator — OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
 
-Open Source Ventilator — OpenLung BVM Ventilator is a well-organized, active, fully open project, but as of this writing not buildable.
+Open Source Ventilator — OpenLung BVM Ventilator is a well-organized, active, fully open project, but as of writing this, is not buildable.
 
 ## Masks, shields and test units
 
@@ -58,6 +58,19 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 1. [Biosafety cabinets](https://github.com/TheoryDivision/covid19_biosafety_cabinet)
 
 Sterilizing personal protective equipment using UV-C radiation in idle biosafety cabinets: A potential method to ease the burden during times of exceptional stress on the healthcare system.
+
+
+2. [Project Apollo](https://github.com/oxycon/ProjectApollo)
+
+Designs docs/software/PCB for an open source oxygen concentrator.
+
+System Requirements: Output medical grade Oxygen ideally at 93% or more Flow rate of 1-20 liters per minute (5 l/m being standard for oxygen therapy)
+
+
+
+3. [Oxygen concentrator](https://github.com/RepRapLtd/Oxygen-concentrator)
+
+The primary aim of this project by RepRap Ltd is to get a working design for an oxygen concentrator out. Some will find it useful as a basis for improvements and  incorporate some ideas for home made oxygenerators.
 
 
 ## Data visualizers, inventory maps and life trackers
