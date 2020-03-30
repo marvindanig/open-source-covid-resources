@@ -28,7 +28,8 @@ The project isn't out in the open yet. Hopefully, it will be soon and we'll upda
 
 Low-Cost Open Source Ventilator is buildable, pressure tested, and active. We recommend that project and its creator, Johnny Lee, be given all the money and volunteer assistance it needs.
 
-
+6. [Open Source Ventilator — OpenLung BVM Ventilator](https://gitlab.com/TrevorSmale/OSV-OpenLung)
+Open Source Ventilator — OpenLung BVM Ventilator is a well-organized, active, fully open project, but as of this writing not buildable.
 
 ## Masks and Test Units
 
