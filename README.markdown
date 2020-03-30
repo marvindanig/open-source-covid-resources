@@ -46,7 +46,9 @@ A prototype face shield developed by Tunisian team in three days, that went thro
 
 ## General tips and official advice
 
-1. [Coronavirus (COVID-19) Update: FDA takes action to help increase U.S. supply of ventilators and respirators for protection of health care workers, patients](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-action-help-increase-us-supply-ventilators-and-respirators)
+1. [Coronavirus (COVID-19) Update from FDA](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-takes-action-help-increase-us-supply-ventilators-and-respirators) 
+
+2. [W.H.O Global Pandemic Advice for public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
 
 
