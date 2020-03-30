@@ -1,8 +1,6 @@
-# Open Source Covid Response Resources
+# Open Source Covid-19 Response Resources
 
-A list  of FOSS and self-help projects to fight the Covid-19 pandemic with. 
-
-Submit PR(s) to add more projects on the list. 
+A list  of FOSS and self-help projects to fight the Covid-19 pandemic with. Please submit PR(s) to add more projects on the list. 
 
 Rules: 
 
