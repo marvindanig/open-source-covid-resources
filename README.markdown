@@ -1,6 +1,6 @@
-# Free and open source resources to help fight the Covid-19 pandemic. 
+# FOSS projects to fight the Covid-19 pandemic with. 
 
-Submit PR to add projects to the list.
+Submit PR to add more projects to the list. 
 
 
 ## Sophisticated Medical Equipment & Ventilators
@@ -17,6 +17,10 @@ MIT is one of the several teams who recognized the challenge of the anticipated 
 3. [Engineers Assemble](https://engineersassemble.tribe.so)
 
 Covid-19 Makers is a community of Makers and engineers in the UK organized to design and build medical equipment and ventilators to save lives and our healthcare system in the fight against Covid-19
+
+4. [Trevor Blackwell's exploratory ventilator using computer fans](https://twitter.com/tlbtlbtlb/status/1242615050990280704).
+
+The project isn't out in the open yet. 
 
 
 ## Masks and Test Units
